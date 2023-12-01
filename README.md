@@ -1,4 +1,4 @@
-# RentalMarketAnalysis
+# Decadal rental Market Analysis: Ottawa-Gatineau - Rent Growth Trends and Regional Variations
 
 ## Analysis Description:
 This analysis provides an in-depth insight into the dynamics of the rental market in the Ottawa-Gatineau region over the past decade. Through a combination of time series analysis, examination of regional disparities, and statistical modeling, we explore the exponential growth of rental prices, changes over time, and the influence of economic factors on the market. Present a forecast for the next five years, offering relevant insights for decision-makers, including investors, legislators, and residents.
@@ -109,7 +109,7 @@ Observation:
 
 ### 3.Compare the rent growth to the Consumer Price Index (CPI)
 
-Based on the dataset I found CPI Statistic Canada web page (folder Data), I calculated the percentage changes by years for CPI values. First, I displayed the rental growth over the years in percentages for Ottawa-Gatineau, and then calculated CPI at the level of Canada's price for CPI Rent and CPI All items.
+Based on the dataset I found CPI Statistic Canada web page (data set in folder Data), I calculated the percentage changes by years for CPI values. First, I displayed the rental growth over the years in percentages for Ottawa-Gatineau, and then calculated CPI at the level of Canada's price for CPI Rent and CPI All items.
 
 ![Process](images/12_1.PNG)
 ![Process](images/12_2.PNG)
