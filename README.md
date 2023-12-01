@@ -9,9 +9,16 @@ This analysis provides an in-depth insight into the dynamics of the rental marke
 
 Process |   Notebook |
 |:-|:-|
-|Data cleaning/wrangling |***Data_cleaning_EDA.ipynb***|
-|Data analysis and visualization|***Data_analysis.ipynb***|
-|Data sets|***Data***|
+|Data cleaning/wrangling | [Data_cleaning_EDA.ipynb](/Data_analysis.ipynb)|
+|Data analysis and visualization|[Data_analysis.ipynb](/Data_analysis.ipynb)|
+|Data sets|[Data](/Data/)|
+
+[Row data 1](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3410013301&pickMembers%5B0%5D=1.105&pickMembers%5B1%5D=3.1&cubeTimeFrame.startYear=2013&cubeTimeFrame.endYear=2022&referencePeriods=20130101%2C20220101)
+
+[Row data 2](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000501&pickMembers%5B0%5D=1.2&cubeTimeFrame.startYear=2012&cubeTimeFrame.endYear=2022&referencePeriods=20120101%2C20220101)
+
+
+
 
 
 ## Results
